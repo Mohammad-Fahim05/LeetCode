@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [1020-number-of-enclaves](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -17,6 +18,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0322-coin-change) |
 | [1020-number-of-enclaves](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -51,6 +53,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 ## Memoization
 |  |
