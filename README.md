@@ -96,4 +96,8 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
