@@ -1,18 +1,19 @@
 class Solution {
-public:
-        int solve(int i , int prev, vector<vector<int>> &dp, vector<int> &nums){
-            if(i >= nums.size()) return 0;
-            if(dp[i][prev+1] != -1) return dp[i][prev+1];
+public: 
+   int  solve(int index, vector<int> &nums,int prev,vector<vector<int>> &dp){
+        if(index >= nums.size()) return 0;
 
-            int not_take = solve(i+1, prev, dp, nums);
-            int take = 0;
-            if(prev == -1 || nums[i] > nums[prev])
-                take = 1 + solve(i+1 , i, dp, nums);
-            return dp[i][prev+1] = max(take , not_take);
+        if(dp[index][prev+1] != -1) return dp[index][prev+1];
+        int not_take = solve(index+1, nums, prev, dp);
+        int take = 0;
+        if(prev == -1 || nums[index] > nums[prev]){
+            take = 1 + solve(index+1, nums, index, dp);
         }
-    int lengthOfLIS(vector<int>& nums) { 
+        return dp[index][prev+1] = max(take, not_take);
+    } 
+    int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
-        vector<vector<int>> dp(n, vector<int> (n+1, -1));
-        return solve(0, -1 , dp, nums); 
+        vector<vector<int>> dp(n+1, vector<int> (n+1, -1));
+        return solve(0, nums, -1 , dp );
     }
 };
