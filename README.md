@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0070-climbing-stairs) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
