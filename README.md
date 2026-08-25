@@ -21,6 +21,7 @@
 | [0860-lemonade-change](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0860-lemonade-change) |
 | [1020-number-of-enclaves](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1710-maximum-units-on-a-truck](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Depth-First Search
 |  |
@@ -108,6 +109,7 @@
 | [0455-assign-cookies](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0860-lemonade-change) |
+| [1710-maximum-units-on-a-truck](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Longest Increasing Subsequence
 |  |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0455-assign-cookies) |
+| [1710-maximum-units-on-a-truck](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Quicksort
 |  |
