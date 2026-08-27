@@ -104,6 +104,7 @@
 | [0242-valid-anagram](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0796-rotate-string](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -165,4 +166,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0242-valid-anagram) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
