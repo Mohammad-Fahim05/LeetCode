@@ -103,6 +103,7 @@
 | [0115-distinct-subsequences](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [1021-remove-outermost-parentheses](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -150,4 +151,12 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0881-boats-to-save-people) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
