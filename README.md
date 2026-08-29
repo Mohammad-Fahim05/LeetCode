@@ -67,6 +67,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0070-climbing-stairs) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
@@ -100,6 +101,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0013-roman-to-integer) |
 | [0115-distinct-subsequences](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0242-valid-anagram) |
@@ -168,6 +170,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0242-valid-anagram) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String Matching
