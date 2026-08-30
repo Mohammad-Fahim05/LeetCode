@@ -20,6 +20,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0860-lemonade-change) |
@@ -179,6 +180,7 @@
 | [0013-roman-to-integer](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String Matching
 |  |
@@ -192,4 +194,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
