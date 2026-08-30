@@ -115,6 +115,7 @@
 | [1092-shortest-common-supersequence](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Greedy
 |  |
@@ -166,10 +167,12 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
 |  |
 | ------- |
