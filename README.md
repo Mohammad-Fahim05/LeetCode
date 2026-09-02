@@ -7,6 +7,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -212,4 +213,9 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
