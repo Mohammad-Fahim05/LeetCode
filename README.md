@@ -77,6 +77,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0070-climbing-stairs) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -174,6 +176,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
@@ -205,4 +208,8 @@
 | ------- |
 | [0050-powx-n](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1922-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
