@@ -72,6 +72,7 @@
 | [0013-roman-to-integer](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0070-climbing-stairs) |
+| [1922-count-good-numbers](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1922-count-good-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
@@ -203,4 +204,5 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
