@@ -2,25 +2,19 @@ class Solution {
 public:
     vector<vector<int>> ans;
     set<int> st;
-    void solve(vector<int> &nums, vector<int> &temp){
-        if(temp.size() == nums.size()){
-            ans.push_back(temp);
+    void solve(int i , vector<int> &nums){
+        if(i == nums.size()){
+            ans.push_back(nums);
             return;
         }
-        for(int j = 0; j < nums.size();j++){
-            if(st.find(nums[j]) ==    st.end()){
-
-            temp.push_back(nums[j]);
-            st.insert(nums[j]);
-            solve(nums,temp);
-            temp.pop_back();
-            st.erase(nums[j]);
-            }
+        for(int j = i ; j< nums.size();j++){
+            swap(nums[i], nums[j]);
+            solve(i+1, nums);
+            swap(nums[i], nums[j]);
         }
     }
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<int> temp;
-        solve(nums, temp);
+        solve(0 , nums);
         return ans;
     }
 };
