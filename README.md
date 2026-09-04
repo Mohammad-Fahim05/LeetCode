@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0078-subsets) |
@@ -156,6 +157,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0047-permutations-ii) |
 | [0242-valid-anagram](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -217,6 +219,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0090-subsets-ii) |
