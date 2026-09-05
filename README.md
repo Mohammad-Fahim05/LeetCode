@@ -34,6 +34,7 @@
 | [1631-path-with-minimum-effort](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1710-maximum-units-on-a-truck](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3903-smallest-stable-index-i](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Depth-First Search
 |  |
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [3903-smallest-stable-index-i](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Recursion
 |  |
