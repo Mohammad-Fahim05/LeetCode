@@ -79,6 +79,7 @@
 | [0013-roman-to-integer](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1922-count-good-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
@@ -217,6 +218,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
@@ -237,6 +239,7 @@
 | [0078-subsets](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
