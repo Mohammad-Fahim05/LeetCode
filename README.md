@@ -236,4 +236,9 @@
 | ------- |
 | [0078-subsets](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0191-number-of-1-bits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
