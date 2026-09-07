@@ -1,12 +1,14 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        unordered_map<int, int > mp;
-        for(auto x : nums) mp[x]++;
-        for(auto x : mp){
-            if(x.second == 1) return x.first;
-            // break
+        int ans = 0;
+        for(int i = 0; i< 32;i++){
+            int count = 0;
+            for(auto num : nums){
+                if((num & (1<<i)) != 0) count++;
+            }
+            if(count %3 == 1) ans |= 1<<i;
         }
-        return -1;
+        return ans;
     }
 };
