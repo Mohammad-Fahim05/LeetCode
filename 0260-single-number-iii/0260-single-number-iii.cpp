@@ -1,16 +1,19 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        unordered_map<int, int > mp;
-        for(auto x : nums ){
-            mp[x]++;
+        int xr = 0;
+        for(auto x : nums) xr ^= x;
+
+     long long  mask = (long long)xr & - (long long)xr;
+
+        int   a = 0;
+        int  b = 0;
+        for (auto x : nums){
+            if( x & mask) a ^= x;
+            else b ^= x;
         }
-        vector<int > ans;
-        for(auto x : mp){
-            if(x.second == 1){
-                ans.push_back(x.first);
-            }
-        }
-        return ans;
+        // a = int(a);
+        // b = int(b);
+        return {a,b};
     }
 };
