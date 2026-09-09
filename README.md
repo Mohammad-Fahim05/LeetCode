@@ -18,6 +18,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0137-single-number-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0137-single-number-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0204-count-primes](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -81,6 +82,7 @@
 | [0013-roman-to-integer](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1922-count-good-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -256,4 +258,24 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0191-number-of-1-bits) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
