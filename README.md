@@ -7,6 +7,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0047-permutations-ii) |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
