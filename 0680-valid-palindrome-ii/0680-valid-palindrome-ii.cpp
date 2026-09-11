@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-      bool solve(int i , int j , string s){
+      bool solve(int i , int j , string &s){
             while(i < j){
                 if(s[i] == s[j]){
                     i++;
