@@ -17,6 +17,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0137-single-number-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0137-single-number-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0204-count-primes](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0260-single-number-iii) |
@@ -70,6 +71,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1631-path-with-minimum-effort](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
@@ -163,6 +165,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0680-valid-palindrome-ii) |
