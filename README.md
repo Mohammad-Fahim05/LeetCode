@@ -14,6 +14,7 @@
 | [0047-permutations-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -67,6 +68,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1020-number-of-enclaves](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -220,6 +222,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0389-find-the-difference) |
