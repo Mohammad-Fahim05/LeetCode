@@ -13,6 +13,7 @@
 | [0046-permutations](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0078-subsets) |
@@ -68,6 +69,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1020-number-of-enclaves](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -303,4 +305,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0204-count-primes) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
