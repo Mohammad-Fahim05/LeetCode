@@ -96,6 +96,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0231-power-of-two) |
@@ -107,6 +108,7 @@
 | [0022-generate-parentheses](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -315,4 +317,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0054-spiral-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
