@@ -17,6 +17,7 @@
 | [0054-spiral-matrix](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1020-number-of-enclaves](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -112,6 +114,7 @@
 | [0055-jump-game](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
