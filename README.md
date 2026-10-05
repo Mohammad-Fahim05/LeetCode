@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0047-permutations-ii) |
@@ -82,6 +83,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1631-path-with-minimum-effort](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1631-path-with-minimum-effort) |
