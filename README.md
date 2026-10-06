@@ -47,6 +47,7 @@
 | [0860-lemonade-change](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1020-number-of-enclaves](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1049-last-stone-weight-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1710-maximum-units-on-a-truck](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
@@ -136,6 +137,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1049-last-stone-weight-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -330,4 +332,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1049-last-stone-weight-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
