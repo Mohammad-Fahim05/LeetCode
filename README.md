@@ -49,6 +49,7 @@
 | [0860-lemonade-change](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1020-number-of-enclaves](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1048-longest-string-chain](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -141,6 +142,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1048-longest-string-chain](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -167,6 +169,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1048-longest-string-chain](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -208,6 +211,7 @@
 | [0455-assign-cookies](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0881-boats-to-save-people) |
+| [1048-longest-string-chain](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1048-longest-string-chain) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
@@ -223,6 +227,7 @@
 | [0455-assign-cookies](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0881-boats-to-save-people) |
+| [1048-longest-string-chain](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1048-longest-string-chain) |
 | [1710-maximum-units-on-a-truck](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Quicksort
@@ -254,6 +259,7 @@
 | [0242-valid-anagram](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1048-longest-string-chain](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1048-longest-string-chain) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String Matching
 |  |
