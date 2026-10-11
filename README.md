@@ -56,6 +56,7 @@
 | [1631-path-with-minimum-effort](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1710-maximum-units-on-a-truck](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3903-smallest-stable-index-i](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Depth-First Search
@@ -325,6 +326,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
