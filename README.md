@@ -57,6 +57,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Depth-First Search
@@ -195,6 +196,7 @@
 | [0881-boats-to-save-people](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1710-maximum-units-on-a-truck](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -267,6 +269,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1048-longest-string-chain](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1048-longest-string-chain) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## String Matching
 |  |
 | ------- |
@@ -317,6 +320,7 @@
 | [0338-counting-bits](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0389-find-the-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
