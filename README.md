@@ -42,6 +42,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -143,6 +144,7 @@
 | [0368-largest-divisible-subset](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
@@ -310,6 +312,7 @@
 | [0051-n-queens](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0494-target-sum) |
 ## Algorithm X
 |  |
 | ------- |
@@ -365,10 +368,12 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1049-last-stone-weight-ii) |
 ## Longest Common Subsequence
 |  |
