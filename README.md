@@ -58,6 +58,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -275,6 +276,7 @@
 | [1048-longest-string-chain](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1048-longest-string-chain) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String Matching
 |  |
 | ------- |
@@ -372,4 +374,12 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
