@@ -106,6 +106,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0374-guess-number-higher-or-lower](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1631-path-with-minimum-effort](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
@@ -396,4 +397,5 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
