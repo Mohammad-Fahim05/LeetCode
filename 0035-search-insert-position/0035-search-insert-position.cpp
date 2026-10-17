@@ -4,6 +4,7 @@ public:
         int n = nums.size();
         int low = 0;
         int high = n -1;
+        
         int ans = n;
 
         while(low <= high){
@@ -14,6 +15,6 @@ public:
             }
             else low = mid +1;
         }
-        return low;
+        return ans;
     }
 };
