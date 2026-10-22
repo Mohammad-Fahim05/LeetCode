@@ -2,11 +2,35 @@ class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
         vector<int> merge;
-        for(int i  = 0; i<nums1.size();i++) merge.push_back(nums1[i]);
-        for(int i  = 0; i<nums2.size();i++) merge.push_back(nums2[i]);
+        int i = 0;
+        int j = 0;
+        int m = nums1.size();
+        int n = nums2.size();
 
-        sort(merge.begin(), merge.end());
-
+        while(i < m && j < n){
+            if(nums1[i] < nums2[j]){
+                merge.push_back(nums1[i]);
+                i++;
+            }
+            else if(nums1[i] > nums2[j] ){
+                merge.push_back(nums2[j]);
+                j++;
+            }
+            else {
+                merge.push_back(nums1[i]);
+                merge.push_back(nums2[j]);
+                i++;
+                j++;
+            }
+        }
+        while(i < m){
+            merge.push_back(nums1[i]);
+                i++;
+        }
+        while(j < n){
+             merge.push_back(nums2[j]);
+                j++;
+        }
         int x = merge.size();
 
         if(x %2 == 1) return double(merge[x/2]);
