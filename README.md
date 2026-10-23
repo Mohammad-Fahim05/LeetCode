@@ -62,6 +62,7 @@
 | [1020-number-of-enclaves](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1049-last-stone-weight-ii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1463-cherry-pickup-ii](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -125,6 +126,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohammad-Fahim05/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
